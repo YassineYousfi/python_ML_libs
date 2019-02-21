@@ -13,3 +13,4 @@ Authors: [@YassineYousfi](https://github.com/yassineyousfi) and [@MostafaBouzian
 
 * [Facets](https://pair-code.github.io/facets/): Better visualize your datasets!
 
+* [Hyperopt](https://github.com/hyperopt/hyperopt): (parameter) Optimization over awkward search spaces, you might also look at: [Scikit optimize](https://scikit-optimize.github.io/).
